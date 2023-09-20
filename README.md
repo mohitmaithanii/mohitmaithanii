@@ -1,8 +1,7 @@
 ![logo](https://github.com/mohitmaithanii/mohitmaithanii/blob/main/GitHub%20banner.png)
 <h1 align="center">Hi 👋, I'm Mohit Maithani</h1>
 <h3 align="center"> - A CSE student and passionate frontend developer - </h3>
-<br>
-<br>
+<hr>
 <img
    align="right"
    width="350"
@@ -120,9 +119,12 @@
       width ="350"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitmaithanii&show_icons=true&locale=en&layout=compact"
       alt="mohitmaithanii" />
+   
+<!--       
    <img
       align="right"
       width ="400"
       src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmaithanii&"
-      alt="mohitmaithanii" />
+      alt="mohitmaithanii" /> -->
+      
 </p>
