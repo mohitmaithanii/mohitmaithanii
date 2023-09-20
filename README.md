@@ -109,6 +109,11 @@
    </a>
 </p>
 <hr>
+<h4 align="center">👋 Aspiring Web Developer | Passionate about Coding | Lifelong Learner 🚀</h4>
+
+<p align="center">Welcome to my GitHub profile! 🌟 I'm on an exciting journey to master the world of coding and web development. 🖥️ Whether you're a fellow enthusiast, an experienced professional, or just curious about this fascinating realm, let's code and grow !</p>
+<br>
+<hr>
 <p>
    <img
       align="left"
