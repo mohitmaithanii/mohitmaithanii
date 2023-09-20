@@ -31,7 +31,7 @@
    /></a>
    <a href="https://instagram.com/mohitmaithanii" target="blank"
       ><img
-         align="center"
+         align="left"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
          alt="mohitmaithanii"
          height="30"
