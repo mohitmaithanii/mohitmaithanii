@@ -1,4 +1,4 @@
-![logo](https://github.com/mohitmaithanii/mohitmaithanii/blob/main/GitHub%20banner.png)
+![logo](https://github.com/mohitmaithanii/mohitmaithanii/blob/main/Github%20Banner%202.0.png)
 <h1 align="center">Hi 👋, I'm Mohit Maithani</h1>
 <h3 align="center"> - A CSE student and passionate frontend developer - </h3>
 <hr>
