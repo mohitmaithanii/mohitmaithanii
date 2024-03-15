@@ -10,8 +10,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitmaithanii&hide_title=true&h_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=3&border_radius=5" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=mohitmaithanii&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&border=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitmaithanii&hide_title=true&h_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=3&border_radius=5" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mohitmaithanii&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&border=3" height="130" alt="streak graph" />
 </div>
 
 ###
