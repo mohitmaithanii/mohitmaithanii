@@ -1,8 +1,7 @@
 *<h3 align="center">Hi 👋! I'm Mohit Maithani</h3>*
 *<p align="center">Create something **Creative** 🚀</p>*
 
-
-<img align="right" height="120" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif"  />
+<br/>
 
 - 🌱 *I’m currently learning **MERN stack***
 
@@ -21,10 +20,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitmaithanii&hide_title=true&h_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=white&locale=en&hide_border=3&border_radius=5" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=mohitmaithanii&locale=en&mode=daily&theme=white&hide_border=false&border_radius=5&border=3" height="130" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitmaithanii&hide_title=true&h_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=white&locale=en&hide_border=3&border_radius=20" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mohitmaithanii&locale=en&mode=daily&theme=white&hide_border=false&border_radius=20&border=3" height="130" alt="streak graph" />
 </div>
 
+<br/>
 
 *<h3>**Languages & Tools**</h3>*
 <div align="left">
@@ -50,6 +50,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
+
+<br/>
 
 *<h3>**Social Media**</h3>*
 <div align="left">
