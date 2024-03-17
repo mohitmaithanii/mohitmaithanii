@@ -1,26 +1,32 @@
-<h1 align="center">Hi 👋! I'm Mohit Maithani</h1>
-<p align="center">Create somthing Creative 🚀</p>
+*<h3 align="center">Hi 👋! I'm Mohit Maithani</h3>*
+*<p align="center">Create something **Creative** 🚀</p>*
 
-###
+
+<img align="right" height="120" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif"  />
+
+- 🌱 *I’m currently learning **MERN stack***
+
+- 👨‍💻 *All of my projects are available at **[mohitmaithanii.github](https://github.com/mohitmaithanii)***
+
+- 💬 *Ask me about **JavaScript, React, Tailwind***
+
+- 📫 *How to reach me **mohitmaithani5@gmail.com***
+
+<hr/>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mohitmaithanii.mohitmaithanii&" />
 </div>
 
-###
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitmaithanii&hide_title=true&h_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=3&border_radius=5" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=mohitmaithanii&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&border=3" height="130" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitmaithanii&hide_title=true&h_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=white&locale=en&hide_border=3&border_radius=5" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mohitmaithanii&locale=en&mode=daily&theme=white&hide_border=false&border_radius=5&border=3" height="130" alt="streak graph" />
 </div>
 
-###
 
-<img align="right" height="150" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif"  />
-
-###
-
-<h3> Languages & Tools</h3>
+*<h3>**Languages & Tools**</h3>*
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -45,14 +51,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-###
-<h3> Social Media</h3>
+*<h3>**Social Media**</h3>*
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
 </div>
-
-###
-
