@@ -20,8 +20,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitmaithanii&hide_title=true&h_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=white&locale=en&hide_border=3&border_radius=20" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=mohitmaithanii&locale=en&mode=daily&theme=white&hide_border=false&border_radius=20&border=3" height="130" alt="streak graph" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=mohitmaithanii&show_icons=true&locale=en&mode=daily&theme=white&hide_border=false&border_radius=20&border=3" height="150" alt="mohitmaithanii" />
+  <img src="https://streak-stats.demolab.com?user=mohitmaithanii&locale=en&mode=daily&theme=white&hide_border=false&border_radius=20&border=3" height="150" alt="streak graph" />
 </div>
 
 *<h3>**Languages & Tools**</h3>*
