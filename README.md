@@ -1,4 +1,4 @@
-*<h3 align="center">Hi 👋! I'm Mohit Maithani</h3>*
+*<h2 align="center">Hi 👋! I'm Mohit Maithani</h2>*
 *<p align="center">Create something **Creative** 🚀</p>*
 
 <br/>
@@ -24,8 +24,6 @@
   <img src="https://streak-stats.demolab.com?user=mohitmaithanii&locale=en&mode=daily&theme=white&hide_border=false&border_radius=20&border=3" height="130" alt="streak graph" />
 </div>
 
-<br/>
-
 *<h3>**Languages & Tools**</h3>*
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -50,8 +48,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
-
-<br/>
 
 *<h3>**Social Media**</h3>*
 <div align="left">
