@@ -13,17 +13,6 @@
 
 <hr/>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohitmaithanii.mohitmaithanii&" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=mohitmaithanii&show_icons=true&locale=en&mode=daily&theme=white&hide_border=false&border_radius=20&border=3" height="150" alt="mohitmaithanii" />
-  <img src="https://streak-stats.demolab.com?user=mohitmaithanii&locale=en&mode=daily&theme=white&hide_border=false&border_radius=20&border=3" height="150" alt="streak graph" />
-</div>
-
 *<h3>**Languages & Tools**</h3>*
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -55,4 +44,14 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohitmaithanii.mohitmaithanii&" />
+</div>
+<br/>
+<div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=mohitmaithanii&show_icons=true&locale=en&mode=daily&theme=white&hide_border=false&border_radius=20&border=3" height="150" alt="mohitmaithanii" />
+  <img src="https://streak-stats.demolab.com?user=mohitmaithanii&locale=en&mode=daily&theme=white&hide_border=false&border_radius=20&border=3" height="150" alt="streak graph" />
 </div>
