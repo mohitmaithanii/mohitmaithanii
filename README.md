@@ -52,6 +52,5 @@
 </div>
 <br/>
 <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=mohitmaithanii&show_icons=true&locale=en&mode=daily&theme=white&hide_border=false&border_radius=20&border=3" height="150" alt="mohitmaithanii" />
   <img src="https://streak-stats.demolab.com?user=mohitmaithanii&locale=en&mode=daily&theme=white&hide_border=false&border_radius=20&border=3" height="150" alt="streak graph" />
 </div>
