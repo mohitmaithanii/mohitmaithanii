@@ -46,11 +46,3 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
 </div>
 
-<br/>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohitmaithanii.mohitmaithanii&" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohitmaithanii&locale=en&mode=daily&theme=white&hide_border=false&border_radius=20&border=3" height="150" alt="streak graph" />
-</div>
