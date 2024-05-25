@@ -1,4 +1,4 @@
-*<h2 align="center">Hi 👋! I'm Mohit Maithani</h2>*
+<!--*<h2 align="center">Hi 👋! I'm Mohit Maithani</h2>*
 *<p align="center">Create something **Creative** 🚀</p>*
 
 - 👨‍💻 *All of my projects are available at **[mohitmaithanii.github](https://github.com/mohitmaithanii)***
@@ -43,3 +43,4 @@
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmaithanii" height="150" alt="mohitmaithanii" />
 </div>
+-->
