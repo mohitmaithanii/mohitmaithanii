@@ -1,13 +1,11 @@
 <div align="center">
   
 *<h1 align="">Hello, I'm **Mohit Maithani**</h1>*
-*<p align="">A Creative **Frontend Developer** and **Web UI Designer** 🚀</p>*
+*<p align="">A Creative **Frontend Developer** & **Web UI Designer**</p>*
   
-</div>
-  
-- *All of my projects are available at **[mohitmaithanii.github](https://github.com/mohitmaithanii)***
-- *How to reach me **mohitmaithani5@gmail.com***
+**[Gmail](mohitmaithani5@gmail.com)** | **[Portfolio](https://mohitmaithanii.vercel.app/)**
 
+</div>
 
 *<h3>**Skill & Frameworks**</h3>*
   <div align="">
@@ -57,8 +55,10 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitmaithanii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mohitmaithanii&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitmaithanii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="160" 
+ alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mohitmaithanii&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=10&order=3" height="160"  alt="streak graph"  />
+  
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitmaithanii&radius=40&theme=nightowl&area=true&order=5&hide_title=false" height="240" alt="activity-graph graph"  /> -->
 </div>
 
