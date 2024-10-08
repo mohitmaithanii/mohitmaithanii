@@ -1,46 +1,78 @@
-<!--*<h2 align="center">Hi 👋! I'm Mohit Maithani</h2>*
-*<p align="center">Create something **Creative** 🚀</p>*
-
-- 👨‍💻 *All of my projects are available at **[mohitmaithanii.github](https://github.com/mohitmaithanii)***
-
-- 📫 *How to reach me **mohitmaithani5@gmail.com***
-
-<div align="left">
+<div align="center">
   
-*<h2>**Languages & Tools**</h2>*
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+*<h1 align="">Hello, I'm **Mohit Maithani**</h1>*
+*<p align="">A Creative **Frontend Developer** and **Web UI Designer** 🚀</p>*
+  
+</div>
+  
+- *All of my projects are available at **[mohitmaithanii.github](https://github.com/mohitmaithanii)***
+- *How to reach me **mohitmaithani5@gmail.com***
+
+
+*<h3>**Skill & Frameworks**</h3>*
+  <div align="">
+  <img src="https://skillicons.dev/icons?i=html" height="25" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="25" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="25" alt="bootstrap logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="25" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="25" alt="tailwindcss logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="25" alt="react logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="25" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=figma" height="25" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="25" alt="firebase logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="25" alt="git logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=redux" height="25" alt="redux logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postman" height="25" alt="postman logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="25" alt="github logo"  />
+  <img width="10" />
+
+
+  *<h3>**Programming Languages**</h3>*
+  <img src="https://skillicons.dev/icons?i=c" height="25" alt="c logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="25" alt="cplusplus logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=java" height="25" alt="java logo"  />
+  <img width="10" />
+
+*<h3>**Editing Skills**</h3>*
+  <img src="https://skillicons.dev/icons?i=pr" height="25" alt="adobepremierepro logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ae" height="25" alt="adobeaftereffects logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ps" height="25" alt="adobephotoshop logo"  />
+  <img width="10" />
+
+*<h3>**Social Contacts**</h3>*
+ <div align="left">
+  <a href="https://www.linkedin.com/in/mohitmaithani5/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="25" alt="LinkedIn Logo" />
+  </a>
+  <a href="https://www.instagram.com/mohitmaithanii/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="25" alt="Instagram Logo" />
+  </a>
+  <a href="https://twitter.com/mohitmaithaniii" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="35" height="25" alt="Twitter Logo" />
+  </a>
 </div>
 
-<div align="left">
-  
-*<h2>**Social Media**</h2>*
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
-</div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmaithanii" height="150" alt="mohitmaithanii" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitmaithanii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mohitmaithanii&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitmaithanii&radius=40&theme=nightowl&area=true&order=5&hide_title=false" height="240" alt="activity-graph graph"  />
 </div>
--->
+
+###
